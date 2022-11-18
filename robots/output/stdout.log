@@ -1,0 +1,11 @@
+==============================================================================
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves the order H...
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        1668787132671	geckodriver	INFO	Listening on 127.0.0.1:59534
+| PASS |
+------------------------------------------------------------------------------
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves th... | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  c:\Users\mrina\OneDrive\Desktop\Robocorp\Robots\level-2-robot\output\output.xml
+Log:     c:\Users\mrina\OneDrive\Desktop\Robocorp\Robots\level-2-robot\output\log.html
